@@ -1,6 +1,6 @@
 <h2 align="center"><samp>whoami</samp></h2>
 <p align="center">
-  <samp>I am a computer science student, currently aspiring to be a data scientist.</samp>
+  <samp>I am a computer science student, currently aspiring to be a ml engineer/data scientist.</samp>
 </p>
 
 <h2 align="center"><samp>languages i'm familiar with</samp></h2>
