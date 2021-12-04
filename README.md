@@ -29,3 +29,4 @@
 </p>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=HarjotSB6&count_private=true&show_icons=true&theme=dark)
+![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=HarjotSB6&layout=compact)
