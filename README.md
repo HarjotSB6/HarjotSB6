@@ -28,6 +28,7 @@
 <a target="_blank" href="mailto:harjotsb56@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+<!--
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=HarjotSB6&count_private=true&show_icons=true&theme=dark)
   <br>
 ![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=HarjotSB6&layout=compact)
