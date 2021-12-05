@@ -27,9 +27,16 @@
 <!-- <a target="_blank" href="https://www.kaggle.com/harjotsb6"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a> &nbsp;&nbsp;-->
 <a target="_blank" href="mailto:harjotsb56@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+<summary><b>⚙️GitHub Analytics</b></summary>
+<a href="https://github.com/sanjay-kv">
+ <img height="150em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
+ <img height="155em" src="https://raw.githubusercontent.com/Sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Sanjay K V github stats" />
+ <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
+ <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Sanjay K V github stats" />
+ <img height="160em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/4-productive-time.svg" /><br>
+ <img height="240em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sanjayviswa&hide=other,text,csv,batchfile,Git Config&layout=compact&theme=github_dark&border_color=21262D" /><br>  
+</a>
 
-<a href="https://github.com/HarjotSB6">
-   <img height="150em" src="https://raw.githubusercontent.com/HarjotSB6/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Harjotsb6 stats" />
 
 <!--
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=HarjotSB6&count_private=true&show_icons=true&theme=dark)
