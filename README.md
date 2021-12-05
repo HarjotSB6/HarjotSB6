@@ -28,6 +28,7 @@
 <a target="_blank" href="mailto:harjotsb56@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+<!--
 <summary><b>⚙️GitHub Analytics</b></summary>
 <a href="https://github.com/HarjotSB6">
  <img height="150em" src="https://raw.githubusercontent.com/HarjotSB6/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="HarjotSB6 stats" />
