@@ -28,6 +28,9 @@
 <a target="_blank" href="mailto:harjotsb56@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+<a href="https://github.com/harjotsb6">
+   <img height="150em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
+
 <!--
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=HarjotSB6&count_private=true&show_icons=true&theme=dark)
   <br>
