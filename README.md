@@ -29,7 +29,7 @@
 </p>
 
 <a href="https://github.com/harjotsb6">
-   <img height="150em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
+   <img height="150em" src="https://raw.githubusercontent.com/harjotsb6/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Harjotsb6 stats" />
 
 <!--
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=HarjotSB6&count_private=true&show_icons=true&theme=dark)
