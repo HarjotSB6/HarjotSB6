@@ -9,7 +9,8 @@
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=black&style=for-the-badge"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=black&style=for-the-badge"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=black&style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=black&style=for-the-badge"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-C-007396?logo=C&logoColor=black&style=for-the-badge"/>
 </p>
 
 <h2 align="center"><samp>technologies & libraries</samp></h2>
