@@ -1,4 +1,4 @@
-<h2 align="center"><samp>whoami</samp></h2>
+<h2 align="center"><samp>who am i</samp></h2>
 <p align="center">
   <samp>I am 19 year old Computer Science student currently venturing into Machine learning, Data science and Front-End development. I have a passion to constantly learn new things as well as to share my knowledge with others. Problem solving and working on various projects have always brought a smile to my face and is a reason why I chose CS as a career path and find my own niche domain.</samp>
 </p>
