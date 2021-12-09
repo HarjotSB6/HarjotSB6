@@ -28,3 +28,4 @@
 <!-- <a target="_blank" href="https://www.kaggle.com/harjotsb6"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a> &nbsp;&nbsp;-->
 <a target="_blank" href="mailto:harjotsb56@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+![](https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/default/0-profile-details.svg)
