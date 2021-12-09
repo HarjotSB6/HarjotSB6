@@ -29,8 +29,8 @@
 <a target="_blank" href="mailto:harjotsb56@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-[![](https://raw.githubusercontent.com/harjotsb6/github-card-template/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/harjotsb6/github-card-template/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/harjotsb6/github-card-template/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/harjotsb6/github-card-template/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/harjotsb6/github-card-template/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
+<p align="center">
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harjotsb6&theme=nord_dark)
+  
+  
+ </p>
