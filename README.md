@@ -31,9 +31,9 @@
 
 <h2 align="center"><samp>github analytics</samp></h2>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarjotSB6&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harjotsb6&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harjotsb6&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harjotsb6&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarjotSB6&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harjotsb6&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harjotsb6&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harjotsb6&theme=vue)
 
 <!-- https://github-profile-summary-cards.vercel.app/demo.html -->
