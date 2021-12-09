@@ -37,5 +37,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harjotsb6&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harjotsb6&theme=nord_dark)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harjotsb6&theme=default)
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harjotsb6&theme=default)
