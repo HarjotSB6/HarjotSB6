@@ -29,15 +29,7 @@
 <a target="_blank" href="mailto:harjotsb56@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harjotsb6&theme=nord_dark)
-  
-  
- </p>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harjotsb6&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harjotsb6&theme=nord_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harjotsb6&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarjotSB6&theme=default)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harjotsb6&theme=default)
