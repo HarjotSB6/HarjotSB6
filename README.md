@@ -33,3 +33,4 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harjotsb6&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harjotsb6&theme=default)
