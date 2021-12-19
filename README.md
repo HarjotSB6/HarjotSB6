@@ -16,7 +16,7 @@
 <h2 align="center"><samp>technologies & libraries</samp></h2>
 <p align="center">
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=black&style=for-the-badge"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Numpy-512BD4?logo=numpy&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Numpy-512BD4?logo=numpy&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Pandas-lightblue?logo=pandas&logoColor=black&style=for-the-badge"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-SKLearn-F7931E?logo=scikit-learn&logoColor=black&style=for-the-badge"/>&nbsp;&nbsp;
 </p>
@@ -35,6 +35,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarjotSB6&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harjotsb6&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harjotsb6&theme=vue)
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harjotsb6&theme=vue) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harjotsb6&theme=vue)
 
 <!-- https://github-profile-summary-cards.vercel.app/demo.html -->
