@@ -29,7 +29,7 @@
 <a href=mailto:harjotsb56@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </p>
-
+<!--
 <h2 align="center"><samp>github analytics</samp></h2>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarjotSB6&theme=vue)
