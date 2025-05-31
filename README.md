@@ -1,20 +1,8 @@
-<h2 align="center"><samp>👋 Hi, I’m Harjot Bali</samp></h2>
+<h2 align="center"><samp>👋 Hi, I’m Harjot Singh Bali</samp></h2>
 <p align="center">
   <samp>Cloud & DevOps enthusiast with hands-on experience in automation, infrastructure as code, and full-stack development. I’m passionate about building secure, scalable systems and delivering efficient data-driven solutions.</samp>
 </p>
 
----
-
-## 💼 Work Experience
-
-**Junior Technical Analyst (Co-op)** - *Ontario Ministry of Transportation, Canada*  📅 *Sept 2024 – Dec 2024*  
-
-
-**Deep Learning Intern (Co-op)** - *Press’nXPress, Canada*  📅 *Oct 2023 – Jan 2024*  
-
-**Technical Assistant (Full-Time)** - *Humber Polytechnic, Toronto*  📅 *Feb 2023 – Aug 2023*  
-
----
 
 ## 📜 Certifications
 - ✅ HashiCorp Certified Terraform Associate  
