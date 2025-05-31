@@ -3,22 +3,14 @@
   <samp>Cloud & DevOps professional with hands-on experience in automation, AI, and full-stack development. Currently focused on building scalable, secure infrastructure and delivering data-driven solutions.</samp>
 </p>
 
----
-
-## 🧑‍💼 About Me
-- 🚀 Passionate about DevOps automation, infrastructure as code, and delivering user-centric solutions  
-
----
 
 ## 💼 Work Experience
 
 **Junior Technical Analyst (Co-op)**  
 *Ontario Ministry of Transportation, Canada* | Sept 2024 – Dec 2024  
 
-
 **Deep Learning Intern (Co-op)**  
 *Press’nXPress, Canada* | Oct 2023 – Jan 2024  
-
 
 **Technical Assistant (Full-Time)**  
 *Humber Polytechnic, Toronto* | Feb 2023 – Aug 2023  
