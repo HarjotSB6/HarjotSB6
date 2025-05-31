@@ -1,4 +1,3 @@
-```markdown
 <h2 align="center"><samp>👋 Hi, I’m Harjot Bali</samp></h2>
 <p align="center">
   <samp>Cloud & DevOps professional with hands-on experience in automation, AI, and full-stack development. Currently focused on building scalable, secure infrastructure and delivering data-driven solutions.</samp>
@@ -138,4 +137,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harjotsb6&theme=vue" />
 </p>
 -->
-```
