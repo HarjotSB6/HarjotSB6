@@ -7,18 +7,12 @@
 
 ## 💼 Work Experience
 
-**Junior Technical Analyst (Co-op)**  
-*Ontario Ministry of Transportation, Canada*  
-📅 *Sept 2024 – Dec 2024*  
+**Junior Technical Analyst (Co-op)** - *Ontario Ministry of Transportation, Canada*  📅 *Sept 2024 – Dec 2024*  
 
 
-**Deep Learning Intern (Co-op)**  
-*Press’nXPress, Canada*  
-📅 *Oct 2023 – Jan 2024*  
+**Deep Learning Intern (Co-op)** - *Press’nXPress, Canada*  📅 *Oct 2023 – Jan 2024*  
 
-**Technical Assistant (Full-Time)**  
-*Humber Polytechnic, Toronto*  
-📅 *Feb 2023 – Aug 2023*  
+**Technical Assistant (Full-Time)** - *Humber Polytechnic, Toronto*  📅 *Feb 2023 – Aug 2023*  
 
 ---
 
