@@ -3,13 +3,6 @@
   <samp>Cloud & DevOps enthusiast with hands-on experience in automation, infrastructure as code, and full-stack development. I’m passionate about building secure, scalable systems and delivering efficient data-driven solutions.</samp>
 </p>
 
-
-## 📜 Certifications
-- ✅ HashiCorp Certified Terraform Associate  
-- ✅ AWS Certified Solutions Architect – Associate  
-- ✅ AWS Certified Cloud Practitioner  
-- 🕐 Red Hat Certified System Administrator I *(In Progress)*
-
 ---
 
 ## 🧰 Skills & Tools
@@ -41,6 +34,25 @@
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
+
+---
+
+## 📜 Certifications
+
+<p align="center">
+  <a href="https://www.hashicorp.com/certification/terraform-associate" target="_blank">
+    <img src="https://img.shields.io/badge/Terraform_Associate-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+  </a>
+  <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS_Solutions_Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+  <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+  <a href="https://www.redhat.com/en/services/certification/rhcs-admin-i" target="_blank">
+    <img src="https://img.shields.io/badge/RHCSA-(In_Progress)-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+  </a>
 </p>
 
 ---
